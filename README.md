@@ -1,4 +1,12 @@
-_________________________________________________________________
+___
+
+
+# Intent_Classification
+An intent classifier which can classifies a query into one of the 21 given intents.
+
+
+
+______________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
 embedding_layer (Embedding)  (None, 25, 50)            20000000  
